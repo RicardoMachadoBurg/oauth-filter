@@ -1,0 +1,3 @@
+/home/user/eclipse-workspace/example-java-oauth-protected-api-master/oauth-filter/src/test/java/se/curity/examples/oauth/jwt/JwtTokenIssuer.java
+/home/user/eclipse-workspace/example-java-oauth-protected-api-master/oauth-filter/src/test/java/se/curity/examples/oauth/jwt/JwtWithCertTest.java
+/home/user/eclipse-workspace/example-java-oauth-protected-api-master/oauth-filter/src/test/java/se/curity/examples/oauth/jwt/TimeBasedCacheTest.java
